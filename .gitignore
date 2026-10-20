@@ -1,0 +1,82 @@
+# Python virtual environments
+backend/venv/
+backend/.venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node.js dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large local cryptocurrency datasets
+backend/data/*.xlsx
+
+# Bundled LaTeX tools
+tectonic.zip
+tectonic_bin/
+
+# Temporary or standalone word-count script
+test_abs.py
+
+
+# Local databases
+backend/*.db
+*.sqlite
+*.sqlite3
+
+# Local databases
+backend/*.db
+*.sqlite
+*.sqlite3
+
+# Large local cryptocurrency datasets
+backend/data/*.xlsx
+
+# Bundled LaTeX tools
+tectonic.zip
+tectonic_bin/
+
+# Temporary word-count script
+test_abs.py
+
+# Temporary debugging scripts
+backend/debug_db.py
+backend/debug_predict.py
+backend/check_accuracy.py
+
+# Python cache and test artifacts
+.coverage
+htmlcov/
+
+# Research archive
+paper.tar.gz
+
+# Redundant or generated diagrams
+system_architecture_generated.png
+system_concept.png
+# Local demo account setup scripts
+backend/create_default_accounts.py
+backend/create_demo_accounts.py
+
+# Documents pending publication review
+ieee_review_paper.pdf
+ieee_review_paper.tex
+implementation_paper.tex
+project_report.txt
