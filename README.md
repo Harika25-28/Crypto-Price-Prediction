@@ -168,32 +168,6 @@ python -m pytest
 - Predictions are model outputs and should not be treated as financial advice.
 - Model performance depends on the dataset, preprocessing, evaluation methodology, and market conditions.
 
-## Application Screenshots
-
-### Landing Page
-![Landing Page](screenshots/landing.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Prediction Page
-![Prediction Page](screenshots/prediction.png)
-
-### Prediction Details
-![Prediction Details](screenshots/prediction-details.png)
-
-### Machine Learning Models
-![Models Page](screenshots/models.png)
-
-### Model Comparison
-![Model Comparison](screenshots/model-comparison.png)
-
-### About Page
-![About Page](screenshots/about.png)
-
-### Login Page
-![Login Page](screenshots/login.png)
-
 ### Sign Up Page
 ![Sign Up Page](screenshots/signup.png)
 
